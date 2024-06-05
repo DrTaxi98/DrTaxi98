@@ -4,7 +4,7 @@ Andrea Tassi
 ## Personal Information
 - 📍 Milan, Italy.
 - 🎓 Bachelor's Degree in Computer Science.
-- 📚 Attending the Master's Degree in Computer Science.
+- 📚 Attending Master's Degree in Computer Science.
 - 🎮 Interested in Game Programming.
 
 ## Contacts and Links
