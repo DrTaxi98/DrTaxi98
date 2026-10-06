@@ -10,7 +10,6 @@ Andrea Tassi
 ## Contacts and Links
 - 📧 Personal e-mail: andreatassi98@gmail.com
 - ℹ LinkedIn: [in/andrea-tassi](https://www.linkedin.com/in/andrea-tassi/)
-- 🐦 Twitter/X: [@DrTaxi98](https://twitter.com/DrTaxi98)
 - 🔗 itch.io: [DrTaxi98](https://drtaxi98.itch.io/)
 
 <!---
